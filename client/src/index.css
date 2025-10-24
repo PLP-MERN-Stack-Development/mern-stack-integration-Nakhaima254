@@ -22,7 +22,7 @@ body {
   --destructive: #ef4444;
   --destructive-foreground: #ffffff;
   --muted: #6b7280;
-  --muted-foreground: #ffffff;
+  --muted-foreground: #6b7280;
   --accent: #f59e0b;
   --accent-foreground: #ffffff;
   --popover: #111827;
@@ -31,6 +31,8 @@ body {
   --card-foreground: #111827;
   --radius: 0.5rem;
 }
+
+
 
 @layer base {
   body {
